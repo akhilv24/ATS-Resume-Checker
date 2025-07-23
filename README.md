@@ -1,14 +1,14 @@
-# ATS-Friendly Resume Checker 🧠📄
+# ATS-Friendly Resume Checker 
 
 A web-based application built with Flask that helps job seekers evaluate their resumes against specific keywords used by Applicant Tracking Systems (ATS). It supports both `.pdf` and `.docx` files and gives a score based on keyword match along with helpful feedback.
 
 ## 🌟 Features
 
-- 🔍 Upload `.pdf` or `.docx` resumes
-- 💼 Enter job description keywords
-- ✅ Get a score on how well your resume matches
-- 💬 Get specific feedback for improvement
-- 🧠 ATS-friendly design philosophy
+-  Upload `.pdf` or `.docx` resumes
+-  Enter job description keywords
+-  Get a score on how well your resume matches
+-  Get specific feedback for improvement
+-  ATS-friendly design philosophy
 
 ## 🚀 Live Demo
 
