@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head><title>Result</title></head>
+<body>
+  <h2>ATS Compatibility Score: {{ score }}%</h2>
+  <ul>
+    {% for item in report %}
+      <li>{{ item }}</li>
+    {% endfor %}
+  </ul>
+  <a href="/">Check Another Resume</a>
+</body>
+</html>
